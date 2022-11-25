@@ -1,0 +1,11 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "description": "connection to mongodb",
+  "repository": "none",
+  "license": "ISC",
+  "dependencies":
+  {
+    "mongoose": "6.0.0"
+  }
+}
